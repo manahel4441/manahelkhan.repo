@@ -237,7 +237,7 @@ body .hero .theme1 {
   width: 3em;
   height: 1.2em;
   left: 100%;
-  margin-left: -6em;
+  margin-left: -5em;
   margin-top: -4em;
 }
 
@@ -631,6 +631,9 @@ body footer .fb {
     background: none;
     padding-right: .1em;
     color: var(--primary-color);
+  }
+   body .hero .theme1 {
+    margin-left: -6.4em;
   }
   body .skill-list ul {
     right: 100%;
