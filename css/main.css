@@ -96,7 +96,7 @@ body .navigation {
 
 body .navigation img {
   width: 200px;
-  margin-left: 2em;
+  margin-left: 1em;
   margin-top: 2em;
 }
 
@@ -110,7 +110,7 @@ body .navigation .nav-toggle span {
   width: 2.3em;
   height: 3px;
   display: block;
-  margin-left: -5em;
+  margin-left: -4.2em;
   margin-top: 2.7em;
   z-index: 6;
   -webkit-transition: 300ms all ease-in-out;
