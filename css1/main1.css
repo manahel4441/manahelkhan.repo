@@ -449,6 +449,10 @@ body .skills ul li cite:hover {
   background: rgba(25, 39, 165, 0.2);
 }
 
+body .skills ul .logos {
+  z-index: 2;
+}
+
 body .skills ul .logos cite {
   position:absolute;
   margin-left: -3.2em;
