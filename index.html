@@ -209,16 +209,18 @@
      }
    })
   contact.from('.contact',{y:40, opacity:0,  duration:1});
+     
+     
 
-     let footer= gsap.timeline({
-     scrollTrigger:{
-       trigger:'footer',
-       toggleActions:'restart none none none',
-       start: '5px 70%',  
-       
-     }
-   })
-  footer.from('footer',{y:40, opacity:0,  duration:1});
+    let footer= gsap.timeline({
+    scrollTrigger:{
+      trigger:'footer',
+      toggleActions:'restart none none none',
+      start: '5px 80%',  
+      
+    }
+  })
+ footer.from('footer',{y:40, opacity:0,  duration:1});
 
  
 
