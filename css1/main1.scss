@@ -426,7 +426,7 @@ nav.slideOut{
            color: var(--wprimary-color);
            border: var(--wprimary-color) 1px solid;
            padding: .5em 1em;
-           margin-left: -1em;        ///////margin top amd bottom doesnt wolrk on citee
+           margin-left: -1.7em;        ///////margin top amd bottom doesnt wolrk on citee
            z-index: 2;
            position: relative;
           
@@ -439,8 +439,10 @@ nav.slideOut{
        }
    }
    .logos{
+       z-index:2;
     cite{
-        margin-left: -1em;
+        margin-left: -3.2em;
+        position:absolute;
     }
 }
  }
