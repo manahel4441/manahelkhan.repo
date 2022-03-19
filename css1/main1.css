@@ -440,7 +440,7 @@ body .skills ul li cite {
   color: var(--wprimary-color);
   border: var(--wprimary-color) 1px solid;
   padding: .5em 1em;
-  margin-left: -1em;
+  margin-left: -1.7em;
   z-index: 2;
   position: relative;
 }
@@ -450,7 +450,8 @@ body .skills ul li cite:hover {
 }
 
 body .skills ul .logos cite {
-  margin-left: -1em;
+  position:absolute;
+  margin-left: -3.2em;
 }
 
 body .about-me {
